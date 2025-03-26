@@ -8,7 +8,7 @@ ___
 
 Time-resolved and multifactorial profiling in single cells resolves the order of heterochromatin events during X-chromosome inactivation
 
-Samy Kefalopoulou, Pim M. J. Rullens, Kim L. de Luca, Sandra S. de Vries, Tessy Korthout, Alexander van Oudenaarden, Peter Zeller and Jop Kind
+Samy Kefalopoulou*, Pim M. J. Rullens*, Kim L. de Luca, Sandra S. de Vries, Tessy Korthout, Alexander van Oudenaarden, Peter Zeller# and Jop Kind#
 
 BioRxiv 2023, (https://www.biorxiv.org/content/10.1101/2023.12.15.571749v1).
 
