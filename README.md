@@ -12,6 +12,15 @@ Samy Kefalopoulou*, Pim M. J. Rullens*, Kim L. de Luca, Sandra S. de Vries, Tess
 
 BioRxiv 2023, (https://www.biorxiv.org/content/10.1101/2023.12.15.571749v1).
 
+___
+
+### **paper:**
+Retrospective and multifactorial single-cell profiling reveals sequential chromatin reorganization during X inactivation
+
+Samy Kefalopoulou*, Pim M. J. Rullens*, Kim L. de Luca, Sandra S. de Vries, Tessy Korthout, Alexander van Oudenaarden, Peter Zeller# and Jop Kind#
+
+Nature Cell Biology 2025, (https://www.nature.com/articles/s41556-025-01687-w)
+
 ____
 
 All raw data in the manuscript was processed largely following the workflow described in Markodimitraki, Rang et al., 2020, available at https://github.com/KindLab/scDamAndTools, with few modifications described in the pipeline directory of this repository. 
